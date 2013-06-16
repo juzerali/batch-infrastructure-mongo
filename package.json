@@ -1,0 +1,21 @@
+{
+  "name": "batch-infrastructure-mongo",
+  "version": "0.0.0",
+  "description": "mongodb infrastructure for node-batch",
+  "main": "batch-infrastructure-mongo.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:juzerali/batch-infrastructure-mongo.git"
+  },
+  "dependencies": {
+    "mongoskin": "*"
+  },
+  "devDependencies": {
+    "node-batch": "*"
+  },
+  "author": "Juzer Ali",
+  "license": "MIT"
+}
